@@ -1,0 +1,2 @@
+2021-03-09	1	azure storage blob binding
+		1	http request to openweather api

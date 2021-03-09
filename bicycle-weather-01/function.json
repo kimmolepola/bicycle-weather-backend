@@ -21,6 +21,20 @@
       "name": "msg",
       "queueName": "outqueue",
       "connection": "AzureWebJobsStorage"
+    },
+    {
+      "name": "myInputBlob",
+      "type": "blob",
+      "path": "asdf/qwer",
+      "connection": "AzureWebJobsStorage",
+      "direction": "in"
+    },
+    {
+      "name": "myOutputBlob",
+      "type": "blob",
+      "path": "asdf/qwer",
+      "connection": "AzureWebJobsStorage",
+      "direction": "out"
     }
   ]
 }
