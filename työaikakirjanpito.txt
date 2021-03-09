@@ -1,2 +1,5 @@
 2021-03-09	1	azure storage blob binding
 		1	http request to openweather api
+		2,5	backend to azure
+		2,5	frontend backend call and ui elements
+		1	ui elements and frontend azure upload
